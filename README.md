@@ -1,4 +1,4 @@
-Hey there, my name is Kai 👋
+Hey there, my name is kai 👋
 ======
 - 🔭 I’m currently working on: Some random Discord Bot with someone pretty special :3
 - 🌱 I’m currently learning: Python, and trying to be myself!
